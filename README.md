@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Devsstudent
-- 👀 I’m interested in cybersecurity and programming science !
-- 🌱 I’m currently learning assembly and c !
-- 💞️ I’m looking to collaborate on any project 
-- 📫 How to reach me . https://www.linkedin.com/in/orson-dessein-98850b201/ \ https://twitter.com/ZstudentD
+- 👀 I’m interested in security, computer science in general, maths and psychologies !
+- 🌱 I’m currently learning general programming at 42 School !
+- 💞️ Don't hesitate to contact me, to collaborate or just ask question !
+- 📫 How to reach me . https://www.linkedin.com/in/orson-dessein-98850b201/
 - Mail : devsstudent777@gmail.com
 
 <!---
